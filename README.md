@@ -1,14 +1,11 @@
 
 
-<h1 align="center">😘BLACK🥸NIHT😘<br></h1>
+<h1 align="center">😘BLACK🥸QVEEN😘<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/1zmC2fw/de26caf0-a55f-49eb-a94d-11cf847ec71e.jpg" alt="nz" width="350"/>
 </p>
 
 
-<p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
 
 <p align="center">
 <a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
